@@ -15,7 +15,7 @@
   </li>
     <li>Insertion Sort
     <ul>
-      <li><a href="https://github.com/pacifiquem/basic_sorting_algorithms/blob/master/InsertionSort/Insertion_sort.c">Sample programm<a><li>
+      <li><a href="https://github.com/pacifiquem/basic_sorting_algorithms/blob/master/InsertionSort/Insertion_sort.c">Sample programm<a></li>
       <li>real life problem solved using Insertion sort</li>
     </ul>
   </li>
